@@ -1,0 +1,31 @@
+body, html {
+	width: 100%;
+}
+
+.leftLogoContainer {
+	margin-top: 0;
+	width:20%;
+	height: 150px;
+	background-color: yellow;
+	float:left;
+	
+}
+
+.rightLogoContainer {
+	width: 80%;
+	height: 150px;
+	background-color: blue;
+	float:right;
+
+
+}
+
+.menu {
+	clear: both;
+	
+}
+
+.ui.segment {
+	border-radius: 0;
+}
+

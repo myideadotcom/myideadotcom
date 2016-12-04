@@ -1,0 +1,33 @@
+body, html {
+	width: 100%;
+}
+
+.logoContainer {
+	margin-top: 0;
+	height: 200px;
+	width: 100%;
+
+}
+
+.innerLogoContainer {
+	background-image: url("../img/MyIdeaLogo.png");
+	background-repeat: no-repeat;
+	height: 200px;
+	width:573px;
+
+	margin: 0 auto ;
+
+
+}
+
+
+
+.menu {
+	clear: both;
+	
+}
+
+.ui.segment {
+	border-radius: 0;
+}
+
