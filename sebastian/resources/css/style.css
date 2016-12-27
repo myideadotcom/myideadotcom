@@ -1,5 +1,6 @@
 body, html {
 	width: 100%;
+	padding:10px;
 }
 
 .logoContainer {
@@ -9,25 +10,18 @@ body, html {
 
 }
 
+.logoContainer {
+	border-bottom: 1px solid;
+}
+
 .innerLogoContainer {
 	background-image: url("../img/MyIdeaLogo.png");
 	background-repeat: no-repeat;
 	height: 200px;
 	width:573px;
-
 	margin: 0 auto ;
-
-
 }
 
-
-
-.menu {
-	clear: both;
-	
+.form-control {
+	width: 90%;
 }
-
-.ui.segment {
-	border-radius: 0;
-}
-
